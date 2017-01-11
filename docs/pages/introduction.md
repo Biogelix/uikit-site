@@ -1,6 +1,6 @@
-# Get started
+# Get started with UK
 
-<p class="uk-text-lead">Get familiar with the basic setup and structure of UIkit.</p>
+<p class="uk-text-lead">Get familiar with the basic setup and structure of UIkit. =)</p>
 
 First of all you need to download UIkit. Get the ZIP package or find the whole project and all source files on GitHub.
 
